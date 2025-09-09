@@ -163,4 +163,16 @@ footer {
 
   }
 
+  hr {
+    border-color: #FFFFFF50;
+    margin-bottom: 23px;
+  }
+
+  small {
+    display: block;
+    text-align: center;
+    font-size: 13px;
+    line-height: 24px;
+  }
+
 }
